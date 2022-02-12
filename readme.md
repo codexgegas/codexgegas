@@ -1,7 +1,7 @@
 # Hello, Im Vikram!
 
 **- I am a 3rd Year Btech student With low gpa XD**
-**- 𝗜 am into 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 and Cracking Machines**
+**- 𝗜 am into Programming and Cracking Machines**
 
 
 ```
