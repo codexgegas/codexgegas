@@ -41,8 +41,8 @@ main :: func(): void {
 <a href="https://www.hackerrank.com/vikram_raj_01121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikram_raj_01121" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vikram_raj_01121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikram_raj_01121" height="30" width="40" /></a>
 <div>
-<br><br>
-<img align= "center"src="https://tryhackme-badges.s3.amazonaws.com/youaresowownk69.png" alt="TryHackMe"></div>
+<br>
+<img align= "center"src="https://tryhackme-badges.s3.amazonaws.com/youaresowownk69.png" alt="TryHackMe"></div><br>
 </p>
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
