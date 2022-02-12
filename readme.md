@@ -1,7 +1,7 @@
 # Hello, Im Vikram!
 
-- 𝗜 𝗮𝗺 𝗮 3rd Year Btech student With low gpa XD
-- 𝗜 ❤️ 𝗟𝗼𝘄 𝗟𝗲𝘃𝗲𝗹 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
+**- I am a 3rd Year Btech student With low gpa XD**
+**- 𝗜 am into 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 and Cracking Machines**
 
 
 ```
