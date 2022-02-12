@@ -3,6 +3,10 @@
 **- I am a 3rd Year Btech student With low gpa XD**
 **- 𝗜 am into Programming and Cracking Machines**
 
+<script src="https://tryhackme.com/badge/387186"></script>
+
+
+
 
 ```
 module main
