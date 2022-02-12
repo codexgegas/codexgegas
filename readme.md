@@ -50,7 +50,7 @@ main :: func(): void {
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-    </tr>
+    </tr><br><br>
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
