@@ -3,7 +3,6 @@
 **- I am a 3rd Year Btech student With low gpa XD**
 **- 𝗜 am into Programming and Cracking Machines**
 
-<script src="https://tryhackme.com/badge/387186"></script>
 
 
 
@@ -38,6 +37,8 @@ main :: func(): void {
 <a href="https://linkedin.com/in/vikram-raj-824a21191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikram-raj-824a21191" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vikram_raj_01121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikram_raj_01121" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vikram_raj_01121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikram_raj_01121" height="30" width="40" /></a>
+<script src="https://tryhackme.com/badge/387186"></script>
+
 </p>
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
