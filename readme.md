@@ -63,8 +63,7 @@ main :: func(): void {
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 ![language used](htps://github-readme-stats.vercel.app/api/top-langs?username=codexgegas&show_icons=true&locale=en&layout=compact)
 <br>
-![Trophies]([![trophy](https://github-profile-trophy.vercel.app/?username=codexgegas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-)
+[![trophy](https://github-profile-trophy.vercel.app/?username=codexgegas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=codexgegas&show_icons=true&hide_border=true)
 
