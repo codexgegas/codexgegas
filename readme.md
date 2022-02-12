@@ -1,6 +1,7 @@
 # Hello, Im Vikram!
 
 **- I am a 3rd Year Btech student With low gpa XD**
+
 **- 𝗜 am into Programming and Cracking Machines**
 
 
@@ -29,7 +30,9 @@ main :: func(): void {
   println "Pronouns: ${Vikram.pronouns}";
   println "Languages I Know: ${Vikram.languages}";
   println "My Hobbies: ${Vikram.hobbies}";
+  println "My Skills are: ${Vikram.Skills}";
   println "Fun Fact: ${Vikram.funFact}";
+
 }
 ```
 <h3 align="left">Connect with me:</h3>
