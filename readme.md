@@ -74,7 +74,7 @@ main :: func(): void {
 ## Show ❤️ By Starring My Repos!
 
 
-# Other
+
 
 
 
