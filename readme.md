@@ -61,11 +61,11 @@ main :: func(): void {
 
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
-![language used](htps://github-readme-stats.vercel.app/api/top-langs?username=codexgegas&show_icons=true&locale=en&layout=compact)
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=codexgegas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=codexgegas&show_icons=true&hide_border=true)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codexgegas&show_icons=true&locale=en&layout=compact" alt="codexgegas" /></p>
 
 # 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗶 𝗱𝗼 𝘁𝗵𝗶𝘀 𝘄𝗲𝗲𝗸
 - Complete basics of BlockChain
