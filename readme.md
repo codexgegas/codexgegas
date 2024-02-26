@@ -1,6 +1,6 @@
 # Hello, Im Vikram!
 
-**- I am a 4th Year Btech student With low gpa XD**
+**- DevSecOps Enigineer**
 
 **- 𝗜 am into Programming and Cracking Machines**
 
